@@ -1,0 +1,4 @@
+C:\Users\anaju\UtmBuilder\UtmBuilder.Core\obj\Debug\net8.0\UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaju\UtmBuilder\UtmBuilder.Core\obj\Debug\net8.0\UtmBuilder.Core.AssemblyInfoInputs.cache
+C:\Users\anaju\UtmBuilder\UtmBuilder.Core\obj\Debug\net8.0\UtmBuilder.Core.AssemblyInfo.cs
+C:\Users\anaju\UtmBuilder\UtmBuilder.Core\obj\Debug\net8.0\UtmBuilder.Core.csproj.CoreCompileInputs.cache
